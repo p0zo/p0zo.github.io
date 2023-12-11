@@ -55,7 +55,7 @@ end
 # TryHackMe CTFs
 
 | Name         | WriteUp Link      | Difficulty |
-|:-------------|:------------------|:------|
+|:----|:------|:----|
 | Pickle Rick           | [Pickle Rick](./tryhackme/picklerick/picklerick.html) | Easy  |
 | Root Me | [Pickle Rick](./tryhackme/picklerick/picklerick.html)   | Easy  |
 | ok           | good `oreos`      | Easy  |
