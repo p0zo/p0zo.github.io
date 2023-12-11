@@ -56,8 +56,8 @@ end
 
 | Name         | WriteUp Link      | Difficulty |
 |:----|:------|:----|
-| Pickle Rick           | [Pickle Rick](./tryhackme/picklerick/picklerick.html) | Easy  |
-| Root Me | [Pickle Rick](./tryhackme/picklerick/picklerick.html)   | Easy  |
+| Pickle Rick | [Click Here](./tryhackme/picklerick/picklerick.html) | Easy  |
+| Root Me | [Click Here](./tryhackme/picklerick/picklerick.html)   | Easy  |
 | ok           | good `oreos`      | Easy  |
 | ok           | good `zoute` drop | yumm  |
 
