@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Pickle Rick](./tryhackme/picklerick/picklerick.html).
+
 [Root Me](./tryhackme/picklerick/picklerick.html).
 
 
@@ -51,13 +52,13 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# TryHackMe CTFs
 
-| head1        | head two          | three |
+| Name         | WriteUp Link      | Difficulty |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
+| Pickle Rick           | [Pickle Rick](./tryhackme/picklerick/picklerick.html) | Easy  |
+| Root Me | [Pickle Rick](./tryhackme/picklerick/picklerick.html)   | Easy  |
+| ok           | good `oreos`      | Easy  |
 | ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
