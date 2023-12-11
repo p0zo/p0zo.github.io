@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./tryhackme/picklerick/picklerick.html).
+[Pickle Rick](./tryhackme/picklerick/picklerick.html).
+[Root Me](./tryhackme/picklerick/picklerick.html).
+
 
 There should be whitespace between paragraphs.
 
